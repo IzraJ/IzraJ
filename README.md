@@ -11,7 +11,7 @@
 	<br>Currently learning <strong>JavaScript</strong> & building <strong>MERN</strong> stack at 100Devs agency. </p> -->
 
 <p align="center">
-<img src ="http://github-readme-streak-stats.herokuapp.com?user=IzraJ&theme=monokai"/> </p>
+<img src ="http://github-readme-streak-stats.herokuapp.com?user=IzraJ&theme=omni"/> </p>
 
 
 <!-- PROJECTS -->
