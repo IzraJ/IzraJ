@@ -1,6 +1,6 @@
 <br>
 <br>
-<img align="center" src="https://github.com//>
+<img align="center" src="https://github.com/IzraJ/IzraJ/blob/main/readMe.assets/cover.png"/>
 
 <br>
 <br>
