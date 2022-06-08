@@ -33,7 +33,7 @@
        <td class="2" width="50%">
           <h3 align="center">PokeDex</h3>
           <p align="center">
-            <a href="https://github.com/IzraJ/pokedex" target="_blank" rel="noreferrer"> <img src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/personal_portfolio.gif" alt="Portfolio"/></a>
+            <a href="https://github.com/IzraJ/pokedex" target="_blank" rel="noreferrer"> <img src="https://github.com/Lala0419/Lala0419/blob/main/readMe.assets/pokedexgif.gif" alt="Portfolio"/></a>
  <!--   Repo mark   -->
             <span> <a href="https://github.com/IzraJ/pokedex" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a> 
 <!-- live site  -->
