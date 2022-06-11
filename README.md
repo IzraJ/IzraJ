@@ -4,6 +4,9 @@
 <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC8DD&width=435&lines=Software+Engineer;Peace%2C+Love+%2C+and+Palm+Trees" alt="Typing SVG"/>
 </div>
 
+<br>
+<br>
+
 <!-- <p align="center">Hi  Izra, a passionate full-stack developer based in Vancouver, BC Canada. 
 	<br>Currently learning <strong>JavaScript</strong> & building <strong>MERN</strong> stack at 100Devs agency. </p> -->
 
