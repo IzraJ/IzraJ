@@ -4,8 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33F7F2&width=435&lines=Software+Engineer;Peace%2C+Love+%2C+and+Palm+Trees" alt="Typing SVG" />
 </div>
 
-<p align="center">Hi👋🏽 I'm Nanaya, a passionate full-stack developer based in Vancouver, BC Canada. 
-	<br>Currently learning <strong>JavaScript</strong> & building <strong>MERN</strong> stack at 100Devs agency. </p>
+<!-- <p align="center">Hi  Izra, a passionate full-stack developer based in Vancouver, BC Canada. 
+	<br>Currently learning <strong>JavaScript</strong> & building <strong>MERN</strong> stack at 100Devs agency. </p> -->
 
 <p align="center">
 <img src ="http://github-readme-streak-stats.herokuapp.com?user=IzraJ&theme=monokai"(https://git.io/streak-stats) </div>
