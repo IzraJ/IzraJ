@@ -9,8 +9,9 @@
 
 <!-- <p align="center">
 <img src ="http://github-readme-streak-stats.herokuapp.com?user=IzraJ&theme=monokai"(https://git.io/streak-stats) </div> -->
-
+<p align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IzraJ&theme=monokai)](https://git.io/streak-stats)
+</p>
 <!--
 **IzraJ/IzraJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
