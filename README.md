@@ -13,8 +13,8 @@
 <br>
 <br>
 
-<!-- <p align="center">Hi  Izra, a passionate full-stack developer based in Vancouver, BC Canada. 
-	<br>Currently learning <strong>JavaScript</strong> & building <strong>MERN</strong> stack at 100Devs agency. </p> -->
+<p align="center">Hi  Izra, a passionate full-stack developer based in St. Petersburg, Florida. 
+	<br>Currently learning <strong>JavaScript</strong> & building <strong>MERN</strong> stack at 100Devs agency. </p>
 
 <p align="center">
 <img src ="http://github-readme-streak-stats.herokuapp.com?user=IzraJ&theme=omni"/> </p>
@@ -57,11 +57,11 @@
         <!-- <td class="3" width="50%">
           <h3 align="center">Fresh Drink</h3>
           <p align="center">
-            <a href="https://freshdrink.netlify.app" target="_blank" rel="noreferrer"> <img  src="https://github.com/Lala0419/Fresh-Drink/blob/master/fresh_drink_2.gif" alt="NASA_POD"/></a> -->
+            <a href="https..." target="_blank" rel="noreferrer"> <img  src="https://github.com/IzraJ/Fresh-Drink/blob/master/fresh_drink_2.gif" alt="NASA_POD"/></a> -->
 <!--   Repo mark   -->
-		  <!-- <span> <a href="https://github.com/Lala0419/Fresh-Drink" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a>  -->
+		  <!-- <span> <a href="https://github.com/IzraJ/Fresh-Drink" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a>  -->
 <!-- live site  -->
-	<!-- <a href="https://freshdrink.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a></span> -->
+	<!-- <a href="https://fresy.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a></span> -->
 <!-- discription  -->
             <!-- <p align="center">
                <strong>HTML5 CSS3 JavaScript </strong><br>Your personal cocktail maker! <br> This app is to help you choose which cocktail to make for you and your loved ones🤍</p>
@@ -70,11 +70,11 @@
        <td class="4" width="50%">
           <h3 align="center">Food Checker</h3>
           <p align="center">
-            <a href="https://github.com/Lala0419/Food-checker" target="_blank" rel="noreferrer"> <img src="https://github.com/Lala0419/Lala0419/blob/main/READme.asset/food_picker.gif" alt="Portfolio"/></a> -->
+            <a href="https://github.com/IzraJ/Foer" target="_blank" rel="noreferrer"> <img src="https://github.com/IzraJEADme.asseod_picker.gif" alt="Portfolio"/></a> -->
  <!--   Repo mark   -->
-            <!-- <span> <a href="https://github.com/Lala0419/Food-checker" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a>  -->
+            <!-- <span> <a href="https://github.com/IzraJ/Food-checker" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&logo=GitHub" alt="GitHub Repo" height ="25px"></a>  -->
 <!-- live site  -->
-	<!-- <a href="https://food-checker-nm.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a> </span> -->
+	<!-- <a href="https://fooify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&logo&color=2D96D9" alt="Live Site" height="25px"></a> </span> -->
 <!-- discription  -->
             <!-- <p align="center">
 		   <strong>HTML5 CSS3 JavaScript </strong><br> Simple app to find out the ingridients in the food. Perfect for those who are in certain diets!</p>
